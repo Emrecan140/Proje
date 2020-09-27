@@ -1,0 +1,13 @@
+C:\Users\yeler\Desktop\Proje\bin\Debug\netcoreapp3.1\Proje.exe
+C:\Users\yeler\Desktop\Proje\bin\Debug\netcoreapp3.1\Proje.deps.json
+C:\Users\yeler\Desktop\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.json
+C:\Users\yeler\Desktop\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.dev.json
+C:\Users\yeler\Desktop\Proje\bin\Debug\netcoreapp3.1\Proje.dll
+C:\Users\yeler\Desktop\Proje\bin\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\yeler\Desktop\Proje\obj\Debug\netcoreapp3.1\Proje.csprojAssemblyReference.cache
+C:\Users\yeler\Desktop\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfoInputs.cache
+C:\Users\yeler\Desktop\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfo.cs
+C:\Users\yeler\Desktop\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.CoreCompileInputs.cache
+C:\Users\yeler\Desktop\Proje\obj\Debug\netcoreapp3.1\Proje.dll
+C:\Users\yeler\Desktop\Proje\obj\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\yeler\Desktop\Proje\obj\Debug\netcoreapp3.1\Proje.genruntimeconfig.cache
